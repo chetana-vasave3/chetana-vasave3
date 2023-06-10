@@ -1,4 +1,4 @@
-![logo](https://github.com/chetana-vasave3/Chetana-Vasave/blob/main/github-header-image%20(5).png)
+![logo](https://github.com/chetana-vasave3/Chetana-Vasave/blob/main/github-header-image%20(6).png)
 
 <h1 align="center">Hi 👋, I'm Chetana Vasave</h1>
 <h3 align="center">Passionate fresher data scientist with expertise in Python, machine learning, and statistical analysis. Committed to leveraging data to drive impactful solutions. Strong problem-solving skills and effective communication abilities. Eager to contribute to the field of data science and make a difference.</h3>
