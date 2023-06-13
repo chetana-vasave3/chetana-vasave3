@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetana-vasave3&label=Profile%20views&color=0e75b6&style=flat" alt="chetana-vasave3" /> </p>
 
-- 🔭 I’m currently working on project [Daily Production Analysis in Textile Industry](https://github.com/chetana-vasave3/Reiter-Daily-Production-Analysis.git)
+- 🔭 I’m currently working on project [AutoExtract Outlook Email Attachments and Create Reports using PowerBI(https://github.com/chetana-vasave3/AutoExtract-Outlook-Email-Attachments-and-Create-Reports-using-PowerBI-.git)
 
 - 🤝 Motivated data scientist eager to contribute my skills and expertise in a dynamic and innovative work environment.
 
