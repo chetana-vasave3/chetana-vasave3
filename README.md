@@ -10,7 +10,7 @@
 
 - 🤝 Motivated data scientist eager to contribute my skills and expertise in a dynamic and innovative work environment.
 
-- 🌱 I’m currently learning **Natural Language Processing,Deep Learning, AWS cloud platform,Falsk Web Application**
+- 🌱 I’m currently learning **Natural Language Processing,Deep Learning, AWS cloud platform,Flask Web Application**
 
 - 📫 How to reach me **vasavechetana5@gmail.com**
 
